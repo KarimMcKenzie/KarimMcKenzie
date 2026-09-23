@@ -2,6 +2,24 @@
 
 ### AI + Research + Program Operations
 
+# AI + Research + Program Operations
+
+## Hi, I'm Karim McKenzie
+
+I'm a **program and portfolio operator** with experience across research, philanthropy, financial operations, and institutional program management.
+
+My background spans philanthropic portfolio operations at Citi Foundation; research and sponsored-program operations at RFMH/NYSPI and Columbia University Irving Medical Center; and grants, restricted funds, and institutional operations at New York Institute of Technology.
+
+Across these environments, I've worked at the intersection of **program execution, financial operations, portfolio management, research administration, governance, and cross-functional delivery**.
+
+This portfolio explores a question that has shaped much of my work: **How do ambitious ideas become executable programs, and how do we build the operating systems that help them scale?**
+
+**Focus areas:** Program & Portfolio Management • AI + Research • Financial & Research Operations • Partnerships • Philanthropic Operations
+
+---
+
+## Selected Work
+
 I build independent operating analyses at the intersection of **AI, scientific research, program management, philanthropy, and complex operations**.
 
 My work focuses on the layer between ambitious ideas and successful execution: how funding, institutions, partnerships, governance, infrastructure, and program operations come together to turn promising opportunities into scalable and durable outcomes.
