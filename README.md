@@ -6,7 +6,7 @@ I build independent operating analyses at the intersection of **AI, scientific r
 
 My work focuses on the layer between ambitious ideas and successful execution: how funding, institutions, partnerships, governance, infrastructure, and program operations come together to turn promising opportunities into scalable and durable outcomes.
 
-## Selected Work
+
 
 ## Selected Work
 
