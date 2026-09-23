@@ -1,6 +1,6 @@
 # Karim McKenzie
 
-### AI + Research + Program Management
+### AI + Research + Program Operations
 
 I build independent operating analyses at the intersection of **AI, scientific research, program management, philanthropy, and complex operations**.
 
