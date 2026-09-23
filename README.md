@@ -1,10 +1,4 @@
-# Karim McKenzie
-
-### AI + Research + Program Operations
-
-# AI + Research + Program Operations
-
-## Hi, I'm Karim McKenzie
+# Karim McKenzie 
 
 I'm a **program and portfolio operator** with experience across research, philanthropy, financial operations, and institutional program management.
 
